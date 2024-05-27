@@ -1,0 +1,51 @@
+* {
+     padding: 0;
+     margin: 0;
+     font-family: Arial;
+     font-weight: 100;
+}
+
+
+body {
+     background-color: black;
+     width: 100%;
+     height: 100vh;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+
+}
+
+h2 {
+     color: #c00df7;
+     font-weight: bold;
+
+}
+
+
+
+.contenedor-texto {
+     width: 98%;
+     background-color: rgba(255, 0, 0, 0);
+     height: auto;
+     text-align: center;
+
+     
+
+}
+
+
+
+
+.contenedor-texto .mascota {
+    font-size: 25px;
+
+     color: #ffffff;
+     font-style: normal;
+     margin-bottom: 40px;
+}
+
+.contenedor-texto p {
+     margin-bottom: 40px;
+     line-height: 36px;
+}
